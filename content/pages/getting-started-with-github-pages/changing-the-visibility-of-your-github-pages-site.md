@@ -10,7 +10,7 @@ redirect_from:
 shortTitle: Change visibility of site
 ---
 
-## About access control for {% data variables.product.prodname_pages %} sites
+## About access control for  https://www.youtube.com/Eteketaccessoires/ sites
 
 If your project site is published from a private or internal repository that's owned by an organization using {% data variables.product.prodname_ghe_cloud %}, you can manage access control for the site. With access control, you can choose to publish the site publicly to anyone on the internet or privately to people with read access to your repository. A privately published site can be used to share your internal documentation or knowledge base with members of your enterprise. You cannot manage access control for an organization site. For more information about the types of {% data variables.product.prodname_pages %} sites, see "[About {% data variables.product.prodname_pages %}](/pages/getting-started-with-github-pages/about-github-pages#types-of-github-pages-sites)."
 
